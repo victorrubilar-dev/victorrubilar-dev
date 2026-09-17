@@ -21,9 +21,17 @@ Soy estudiante de la carrera de Ingeniería en Informática, apasionado por desa
 
 ---
 
+### Proyectos Completados 🤓
+
+#### inir-widget-github-contributions
+- **Descripción:** Widget para iNiR(Niri) para ver contribuciones de Github
+- **Enlaces del proyecto:** [Ver repositorio](https://github.com/victorrubilar-dev/inir-widget-github-contributions)
+
+---
+
 ### Proyectos en curso ⏳
 
-#### **Gestión Pañol (Nombre provisorio)** 📦
+#### **SGIA (Sistema de Gestión de Inventario y Activos)** 📦
 - **Descripción:** Sistema de gestión para manejo de inventario, cotizaciones, mantención de equipos e insumos.
 - **Tecnologías:** Laravel, PHP, HTML/CSS.
 - **Enlace al proyecto:** [Ver Repositorio](https://github.com/victorrubilar-dev/proyecto-bodega)
@@ -59,14 +67,6 @@ Soy estudiante de la carrera de Ingeniería en Informática, apasionado por desa
 - **Enlace al proyecto:** [Ver Repositorio](https://github.com/victorrubilar-dev/ruta-furgon)
 
 </details>
-
----
-
-### Gráfico de Contribuciones 👾
-
-<p align="left">
-  <img src="https://ghchart.rshah.org/3776AB/victorrubilar-dev" alt="Gráfico de contribuciones de Víctor" />
-</p>
 
 ---
 
