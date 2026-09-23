@@ -34,7 +34,7 @@ Soy estudiante de la carrera de Ingeniería en Informática, apasionado por desa
 #### **SGIA (Sistema de Gestión de Inventario y Activos)** 📦
 - **Descripción:** Sistema de gestión para manejo de inventario, cotizaciones, mantención de equipos e insumos.
 - **Tecnologías:** Laravel, PHP, HTML/CSS.
-- **Enlace al proyecto:** [Ver Repositorio](https://github.com/victorrubilar-dev/proyecto-bodega)
+- **Enlace al proyecto:** [Front End](https://github.com/Alerrsi/FrondEnd-SGIA) | [Back End](https://github.com/victorrubilar-dev/BackEnd-SGIA) 
 
 #### **Acelera 2026** ⚡
 - **Descripción:** Sistema de gestión y monitoreo de fuentes de energía.
